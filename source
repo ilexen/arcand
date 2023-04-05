@@ -190,4 +190,15 @@ Search Result Item - <div> - .notion-search__result-item
 Search Result Loader - <div> - .notion-search__result-loader
 Search Result Footer - <div> - .notion-search__result-footer
 
+
+SUPER PASSWORD
+Super Password - <div> - .super-password-protection
+Super Password Content Wrapper - <div> - .super-password-protection__wrapper
+Super Password Title - <h1> - .super-password-protection__title
+Super Password Input Wrapper - <div> - .super-password-protection__input
+Super Password Input Field - <input> - .super-password-protection__input>input
+Super Password Lock Icon - <div> - .super-password-protection__input-lock
+Super Password Arrow Icon - <div> - .super-password-protext__input-arrow
+Super Password Error Message - <p> - .super-password-protection__error
+
 --*/

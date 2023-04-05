@@ -163,4 +163,17 @@ Super Navbar Nav Menu Button (Close button) - <div> - .super-navbar__menu-button
 Super Navbar Nav Menu Item (Popup menu) - <a> - .super-navbar__item
 Super Navbar Theme Toggle Button - <div> - .super-navbar__theme-toggle
 
+
+FOOTER
+Super Footer - <div> - .super-footer
+Super Footer Corners - <div> - .super-footer.corners
+Super Footer Stack - <div> - .super-footer.stack
+Super Footer Floating - <div> - .super-footer.floating
+Super Footer Logo - <a> - .super-footer__logo
+Super Footer Logo Image - <div> - .super-footer__logo-image
+Super Footer Links - <div> - .super-footer__links
+Super Footer Link - <a> - .super-footer__link
+Super Footer Footnote - <p> - .super-footer__footnote
+Super Footer Social Icons - <div> - .super-footer__icons
+
 --*/

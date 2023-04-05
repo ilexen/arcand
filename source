@@ -90,4 +90,13 @@ Notion Header Icon Wrapper - <div> - .notion-header__icon-wrapper
 Notion Header Icon - <div> - .notion-header__icon
 Notion Header Cover - <div> - .notion-header__cover
 
+
+TYPOGRAPHY
+Text - <p> - .notion-text__content
+Bold Text - <b> - strong
+All Headings - n/a - .notion-heading
+Heading 1 - <h1> - h1.notion-heading
+Heading 2 - <h2> - h2.notion-heading
+Heading 3 - <h3> - h3.notion-heading
+
 --*/

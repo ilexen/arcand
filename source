@@ -41,4 +41,39 @@ Notion Equations - <span> - .notion-equation
 Notion Equation (Inline) - <span> - .notion-equation.notion-equation__inline
 Notion Equation (Block) - <span> - .notion-equation.notion-equation__block
 
+
+DATABASE
+Collection Wrapper - <div> - .notion-collection
+Collection Header - <h3> - .notion-collection__header
+Collection Header Icon - <div> - .notion-collection__header-icon
+Collection Property Pill - <span> - .notion-pill
+Collection Property Title - <div> - .notion-property__title
+Collection Property Date - <div> - .notion-property__date
+Collection Property URL - <div> - .notion-property__url
+Collection Property Relation - <div> - .notion-property__relation
+Collection Property Icon Wrapper - <div> - .notion-property__title__icon-wrapper
+Table Collection Wrapper - <div> - .notion-collection-table__wrapper
+Table Collection - <table> - .notion-collection-table
+Table Collection Header - <thead> - .notion-collection-table__head
+Table Collection Body - <tbody> - .notion-collection-table__body
+Table Collection Cell - <td> - .notion-collection-table__cell
+Gallery Collection - <div> - .notion-collection-gallery
+Gallery Collection (Small) - <div> - .notion-collection-gallery.small
+Gallery Collection (Medium) - <div> - .notion-collection-gallery.medium
+Gallery Collection (Large) - <div> - .notion-collection-gallery.large
+Gallery Collection Card - <div> - .notion-collection-card.gallery
+Gallery Collection Card Content - <div> - .notion-collection-card__content
+Gallery Collection Card Cover - <div> - .notion-collection-card__cover
+Gallery Collection Card Property - <div> - .notion-collection-card__property
+Board Collection - <div> - .notion-collection-board
+Board Collection Column - <div> - .notion-collection-board__column
+Board Collection Column Header - <div> - .notion-collection-board__column-header
+Board Collection Item - <div> - .notion-collection-board__item
+Board Collection Card - <div> - .notion-collection-card.board
+List Collection - <div> - .notion-collection-list
+List Collection Item - <div> - .notion-collection-list__item
+List Collection Item Title - <div> - .notion-collection-list__item-title
+List Collection Item Content - <div> - .notion-collection-list__item-content
+List Collection Item Property - <div> - .notion-collection-list__item-property
+
 --*/

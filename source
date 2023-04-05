@@ -176,4 +176,18 @@ Super Footer Link - <a> - .super-footer__link
 Super Footer Footnote - <p> - .super-footer__footnote
 Super Footer Social Icons - <div> - .super-footer__icons
 
+
+SEARCH
+Search Wrapper - <div> - .notion-search__wrapper
+Search Box - <div> - .notion-search__box
+Search Input Wrapper - <div> - .notion-search__input
+Search Input Field - <input> - .notion-search__input>input
+Search Box Icon Wrapper - <div> - .notion-search__icon
+Search Box Icon - <svg> - .notion-icon.notion-icon__search
+Search Box Clear Button Wrapper - <div> - .notion-search__clear
+Search Box Clear Button - <svg> - .notion-search__clear>svg
+Search Result Item - <div> - .notion-search__result-item
+Search Result Loader - <div> - .notion-search__result-loader
+Search Result Footer - <div> - .notion-search__result-footer
+
 --*/

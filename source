@@ -99,4 +99,37 @@ Heading 1 - <h1> - h1.notion-heading
 Heading 2 - <h2> - h2.notion-heading
 Heading 3 - <h3> - h3.notion-heading
 
+
+MEDIA
+Notion Caption - <figcaption> - .notion-caption
+Image - <div> - .notion-image
+Image (Type 2) - <img> - .notion-image img
+Bookmark - <div> - .notion-bookmark
+Bookmark Content - <div> - .notion-bookmark__content
+Bookmark Title - <h5> - .notion-bookmark__title
+Bookmark Description - <p> - .notion-bookmark__description
+Bookmark Link - <div> - .notion-bookmark__link
+Bookmark Cover Wrapper - <div> - .notion-bookmark__cover
+Bookmark Cover Image - <img> - .notion-bookmark__cover img
+Video - <div> - .notion-video
+Audio - <div> - .notion-audio
+File - <a> - .notion-file
+File Icon - <div> - .notion-file__icon
+File Title - <span> - .notion-file__title
+File Size Text - <span> - .notion-file__size
+Embedded Content Wrapper (Including caption) - <div> - .notion-embed
+Embedded Content - <div> - .notion-embed__content
+Embedded Content Loader - <div> - .notion-embed__loader
+Embedded Content iFrame Wrapper - <div> - .notion-embed__container
+Tweet - <div> - .notion-tweet
+Tweet Header Wrapper - <div> - .static-tweet-header
+Tweet Header Avatar - <a> - .static-tweet-header-avatar
+Tweet Header Author Wrapper - <a> .static-tweet-header-author
+Tweet Header Name - <span> - .static-tweet-header-name
+Tweet Header Username - <span> - .static-tweet-header-username
+Tweet Header Twitter Button - <a> - .static-tweet-header-brand
+Tweet Text - <p> - .static-tweet-p
+Tweet Image Wrapper - <div> - .image-container
+Tweet Info - <div> - .static-tweet-info
+
 --*/

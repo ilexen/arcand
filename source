@@ -3,3 +3,42 @@
     color:#171717;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+/*--
+
+CONTENT
+Link - <a> - .notion-link
+Page - <div> - .notion-page
+Page Icon - <div> - .notion-page__icon
+Page Title - <div> - .notion-page__title
+Bullet List - <ul> - .notion-bulleted-list
+Numbered List - <ol> - .notion-numbered-list
+List Item - <li> - .notion-list-item
+To-do - <div> - .notion-to-do
+To-do Content Wrapper - <div> - .notion-to-do__content
+To-do Checkbox Wrapper - <div> - .notion-to-do__icon
+To-do Checkbox (Unchecked) - <div> - .notion-checkbox
+To-do Checkbox (Checked) - <div> - .notion-checkbox.checked
+To-do Title (Unchecked) - <div> - .notion-to-do__title
+To-do Title (Checked) - <div> - .notion-to-do__title.checked
+To-do Check Icon (Unchecked) - <svg> - .notion-checkbox>svg
+To-do Check Icon (Checked) - <svg> - .notion-checkbox.checked>svg
+Toggle - <details> - .notion-toggle
+Toggle Title (Summary) - <summary> - .notion-toggle__summary
+Toggle Icon - (pseudo element) - .notion-toggle__summary::before
+Toggle Content - <div> - .notion-toggle__content
+Quote - <blockquote> - .notion-quote
+Callout - <div> - .notion-callout
+Callout Icon - <div> - .notion-callout__icon
+Callout Content - <p> - .notion-callout__content
+Callout Border - <div> - .notion-callout.border
+Code Content Wrapper - <pre> - .notion-code>pre
+Code Content - <code> - .notion-code code
+Divider - <div> - .notion-divider
+Table of Contents - <ul> - .notion-table-of-contents
+Table of Contents Item - <li> - .notion-table-of-contents__item
+Notion Equations - <span> - .notion-equation
+Notion Equation (Inline) - <span> - .notion-equation.notion-equation__inline
+Notion Equation (Block) - <span> - .notion-equation.notion-equation__block
+
+--*/

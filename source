@@ -132,4 +132,35 @@ Tweet Text - <p> - .static-tweet-p
 Tweet Image Wrapper - <div> - .image-container
 Tweet Info - <div> - .static-tweet-info
 
+
+NAVBAR
+Notion Navbar - <div> - .notion-navbar
+Notion Navbar Link - <a> - .notion-navbar>a
+Notion Navbar Title - <div> - .notion-navbar__title
+Notion Navbar Icon - <div> - .notion-navbar__icon
+Notion Navbar Search Button - <div> - .notion-navbar__search
+Notion Navbar Breadcrumb Divider - <span> - .notion-breadcrumb__divider
+Notion Navbar Breadcrumb Item - <div> - .notion-breadcrumb__item
+Notion Navbar Breadcrumb Dots - <div> - .notion-breadcrumb__dots
+Super Navbar - <div> - .super-navbar
+Super Navbar Logo Wrapper - <div> - .super-navbar__logo-wrapper
+Super Navbar Logo - <a> - .super-navbar__logo
+Super Navbar Logo (Image) - <div> - .super-navbar__logo-image
+Super Navbar Logo (Text) - <span> - .super-navbar__logo-text
+Super Navbar CTA Button - <div> - .super-navbar__cta
+Super Navbar Content Wrapper - <div> - .super-navbar__content
+Super Navbar Item List (Links Wrapper) - <div> - .super-navbar__item-list
+Super Navbar Item (Link) - <a> - .super-navbar__actions
+Super Navbar Nav Menu Actions (Buttons Wrapper) - <div> - .super-navbar__actions
+Super Navbar Nav Menu Wrapper (Popup menu closed) - <div> - .super-navbar__menu-wrapper
+Super Navbar Nav Menu Wrapper (Popup menu open) - <div> - .super-navbar__menu-wrapper.active
+Super Navbar Nav Menu (Popup menu) - <div> - .super-navbar__menu
+Super Navbar Nav Menu List (Popup menu) - <div> - .super-navbar__menu-item-list
+Super Navbar Nav Menu List Item (Popup menu) - <a> - .super-navbar__menu-item
+Super Navbar Nav Menu Buttons - <div> - .super-navbar__menu-button
+Super Navbar Nav Menu Button (Open button) - <div> - .super-navbar__menu-button--open
+Super Navbar Nav Menu Button (Close button) - <div> - .super-navbar__menu-button--close
+Super Navbar Nav Menu Item (Popup menu) - <a> - .super-navbar__item
+Super Navbar Theme Toggle Button - <div> - .super-navbar__theme-toggle
+
 --*/

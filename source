@@ -76,4 +76,18 @@ List Collection Item Title - <div> - .notion-collection-list__item-title
 List Collection Item Content - <div> - .notion-collection-list__item-content
 List Collection Item Property - <div> - .notion-collection-list__item-property
 
+
+LAYOUT
+Content Container Wrapper - <div> - .super-content
+Content Container Wrapper (Max Width) - <div> - .super-content.max-width
+Content Container - <article> - .notion-root
+Column List - <div> - .notion-column-list
+Column - <div> - .notion-column
+Notion Header Section - <div> - .notion-header
+Notion Header Title Wrapper - <div> - .notion-header__title-wrapper
+Notion Header Title - <h1> - .notion-header__title
+Notion Header Icon Wrapper - <div> - .notion-header__icon-wrapper
+Notion Header Icon - <div> - .notion-header__icon
+Notion Header Cover - <div> - .notion-header__cover
+
 --*/

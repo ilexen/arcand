@@ -658,5 +658,119 @@ h3.notion-heading {
 }
 
 .static-tweet-info {
+
+}
+
+
+/* NAVBAR */
+.notion-navbar {
+
+}
+
+.notion-navbar>a {
+
+}
+
+.notion-navbar__title {
+
+}
+
+.notion-navbar__icon {
+
+}
+
+.notion-navbar__search {
+
+}
+
+.notion-breadcrumb__divider {
+
+}
+
+.notion-breadcrumb__item {
+
+}
+
+.notion-breadcrumb__dots {
+
+}
+
+.super-navbar {
+
+}
+
+.super-navbar__logo-wrapper {
+
+}
+
+.super-navbar__logo {
+
+}
+
+.super-navbar__logo-image {
+
+}
+
+.super-navbar__logo-text {
+
+}
+
+.super-navbar__cta {
+
+}
+
+.super-navbar__content {
+
+}
+
+.super-navbar__item-list {
+
+}
+
+.super-navbar__actions {
+
+}
+
+.super-navbar__actions {
+
+}
+
+.super-navbar__menu-wrapper {
+
+}
+
+.super-navbar__menu-wrapper.active {
+
+}
+
+.super-navbar__menu {
+
+}
+
+.super-navbar__menu-item-list {
+
+}
+
+.super-navbar__menu-item {
+
+}
+
+.super-navbar__menu-button {
+
+}
+
+.super-navbar__menu-button--open {
+
+}
+
+.super-navbar__menu-button--close {
+
+}
+
+.super-navbar__item {
+
+}
+
+.super-navbar__theme-toggle {
     
 }

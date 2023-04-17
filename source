@@ -334,5 +334,51 @@ Super Password Error Message - <p> - .super-password-protection__error
 }
 
 .notion-equation.notion-equation__block {
+
+}
+
+
+/* LAYOUT */
+.super-content {
+
+}
+
+.super-content.max-width {
+
+}
+
+.notion-root {
+
+}
+
+.notion-column-list {
+
+}
+
+.notion-column {
+
+}
+
+.notion-header {
+
+}
+
+.notion-header__title-wrapper {
+
+}
+
+.notion-header__title {
+
+}
+
+.notion-header__icon-wrapper {
+
+}
+
+.notion-header__icon {
+
+}
+
+.notion-header__cover {
     
 }

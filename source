@@ -536,5 +536,127 @@ h2.notion-heading {
 }
 
 h3.notion-heading {
+
+}
+
+
+/* MEDIA */
+.notion-caption {
+
+}
+
+.notion-image {
+
+}
+
+.notion-image img {
+
+}
+
+.notion-bookmark {
+
+}
+
+.notion-bookmark__content {
+
+}
+
+.notion-bookmark__title {
+
+}
+
+.notion-bookmark__description {
+
+}
+
+.notion-bookmark__link {
+
+}
+
+.notion-bookmark__cover {
+
+}
+
+.notion-bookmark__cover img {
+
+}
+
+.notion-video {
+
+}
+
+.notion-audio {
+
+}
+
+.notion-file {
+
+}
+
+.notion-file__icon {
+
+}
+
+.notion-file__title {
+
+}
+
+.notion-file__size {
+
+}
+
+.notion-embed {
+
+}
+
+.notion-embed__content {
+
+}
+
+.notion-embed__loader {
+
+}
+
+.notion-embed__container {
+
+}
+
+.notion-tweet {
+
+}
+
+.static-tweet-header {
+
+}
+
+.static-tweet-header-avatar {
+
+}
+
+.static-tweet-header-author {
+
+}
+
+.static-tweet-header-name {
+
+}
+
+.static-tweet-header-username {
+
+}
+
+.static-tweet-header-brand {
+
+}
+
+.static-tweet-p {
+
+}
+
+.image-container {
+
+}
+
+.static-tweet-info {
     
 }

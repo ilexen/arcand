@@ -464,7 +464,7 @@ Super Password Error Message - <p> - .super-password-protection__error
 }
 
 .notion-collection-list__item-property {
-    
+
 }
 
 
@@ -511,4 +511,30 @@ Super Password Error Message - <p> - .super-password-protection__error
 
 .notion-header__cover {
 
+}
+
+
+/* TYPOGRAPHY */
+.notion-text__content {
+
+}
+
+strong {
+
+}
+
+.notion-heading {
+
+}
+
+h1.notion-heading {
+
+}
+
+h2.notion-heading {
+
+}
+
+h3.notion-heading {
+    
 }

@@ -338,6 +338,136 @@ Super Password Error Message - <p> - .super-password-protection__error
 }
 
 
+/* DATABASE */
+.notion-collection {
+
+}
+
+.notion-collection__header {
+
+}
+
+.notion-collection__header-icon {
+
+}
+
+.notion-pill {
+
+}
+
+.notion-property__title {
+
+}
+
+.notion-property__date {
+
+}
+
+.notion-property__url {
+
+}
+
+.notion-property__relation {
+
+}
+
+.notion-property__title__icon-wrapper {
+
+}
+
+.notion-collection-table__wrapper {
+
+}
+
+.notion-collection-table {
+
+}
+
+.notion-collection-table__head {
+
+}
+
+.notion-collection-table__body {
+
+}
+
+.notion-collection-table__cell {
+
+}
+
+.notion-collection-gallery {
+
+}
+
+.notion-collection-gallery.small {
+
+}
+
+.notion-collection-gallery.medium {
+
+}
+
+.notion-collection-gallery.large {
+
+}
+
+.notion-collection-card.gallery {
+
+}
+
+.notion-collection-card__content {
+
+}
+
+.notion-collection-card__cover {
+
+}
+
+.notion-collection-card__property {
+
+}
+
+.notion-collection-board {
+
+}
+
+.notion-collection-board__column {
+
+}
+
+.notion-collection-board__column-header {
+
+}
+
+.notion-collection-board__item {
+
+}
+
+.notion-collection-card.board {
+
+}
+
+.notion-collection-list {
+
+}
+
+.notion-collection-list__item {
+
+}
+
+.notion-collection-list__item-title {
+
+}
+
+.notion-collection-list__item-content {
+
+}
+
+.notion-collection-list__item-property {
+    
+}
+
+
 /* LAYOUT */
 .super-content {
 
@@ -380,5 +510,5 @@ Super Password Error Message - <p> - .super-password-protection__error
 }
 
 .notion-header__cover {
-    
+
 }
